@@ -1,0 +1,41 @@
+As a mobility-impaired user, I want to interact with the system using voice and haptic feedback, so that I can use the vehicle safely without relying on visual cues.
+As a user, I want to receive real-time explanations of major driving decisions, so that I can understand and trust the system.
+As a user, I want to control and delete my personal data anytime, so that I can protect my privacy.
+As a developer, I want the AI to be validated with diverse datasets, so that it performs reliably for all users and environments.
+As a user, I want the system to protect against unauthorized access, so that my safety and privacy are not compromised.
+As a driver, I want the system to use alternative navigation methods when lane markings are unclear, so that the vehicle remains operational in diƯicult road conditions.
+As a user, I want to receive lane-related feedback through visual, audio, and haptic cues, so that I am aware of lane behavior regardless of ability.
+As a user, I want access to temporary logs of system behavior, so that I can review incidents and decisions.
+As a user, I want the system to keep functioning in a safe fallback mode when a sensor fails, so that I’m not left in a dangerous situation.
+As a driver, I want the system to respond diƯerently based on object detection certainty, so that unnecessary braking or missed hazards are avoided.
+As a pedestrian, I want the system to prioritize my safety over the vehicle’s, so that I am protected in dangerous scenarios.
+As a user, I want access to object detection logs, so that system decisions can be evaluated after an event.
+As a user, I want the system to regularly prompt me to stay alert, so that I don’t over-rely on automation.
+As a user, I want the system to explain its interpretation of traffic signs, so that I understand why it’s obeying or ignoring them.
+As a user, I want the system to delete traffic sign logs after 30 days, unless needed, so that my privacy is protected.
+As a developer, I want the system to cross-verify signs using GPS/map data, so that it doesn't rely on damaged or unclear signage.
+As a stakeholder, I want regulators and advocacy groups involved in development, so that the system reflects societal needs and legal norms.
+As a user, I want to override AI-generated routes when needed, so that I retain control over my journey.
+As a user, I want explanations for route choices, so that I can evaluate their safety and eƯiciency.
+As a resident, I want the system to avoid rerouting through local streets excessively, so that my neighborhood stays safe and quiet.
+As a user, I want to see trade-offs made by the system (e.g., safety vs. speed), so that I can make informed travel decisions.
+As a user, I want the system to detect emergency vehicles using multiple sensors, so that false triggers are reduced.
+As a driver, I want a warning before the system yields to an emergency vehicle, so that I’m aware and can intervene if needed.
+As a user, I want emergency response logs saved temporarily, so that incident responses can be reviewed.
+As a traffic planner, I want the system to avoid obstructing emergency lanes, so that emergency vehicles are not delayed.
+As a user, I want alerts from the assistant in my preferred communication mode, so that I receive them in a way that suits my abilities.
+As a driver, I want to override assistant suggestions unless safety is at risk, so that I maintain agency.
+As a user, I want to control the assistant's data collection and delete my information, so that I feel safe using the system.
+As a user with disabilities, I want the assistant to oƯer multimodal interaction and customizable settings, so that it adapts to my needs.
+As a user, I want the system to slow down or stop in a controlled way during critical failures, so that I remain safe.
+As a user, I want access to failure logs and a way to report issues, so that bugs are addressed quickly.
+As a user, I want a clear path to seek compensation if a system failure causes harm, so that I’m not left without support.
+As a developer, I want the system to verify failures using multiple inputs before reacting, so that it avoids false alarms.
+As a user, I want to decide who can access my cloud-stored data, so that I retain control over my information.
+As a privacy-conscious user, I want the option to opt out of non-critical data collection, so that my data footprint stays minimal.
+As a cybersecurity expert, I want the system to use strong authentication and real-time threat detection, so that it's protected against attacks.
+As an environmental advocate, I want the system to limit unnecessary cloud use and prioritize renewable energy, so that the carbon footprint is reduced.
+As a developer, I want to involve a diverse group of stakeholders in testing, so that the system is inclusive and compliant.
+As a regulator, I want access to system logs and audit tools, so that I can verify safety and fairness.
+As a user, I want a clear liability and redress framework during testing, so that I know my rights.
+As a policymaker, I want anonymized data insights to guide city planning, so that autonomous vehicles support sustainable urban mobility.
